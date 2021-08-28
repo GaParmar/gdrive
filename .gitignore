@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+tmp/*
+build/*
+dist/*
+gdrive.egg-info/*
